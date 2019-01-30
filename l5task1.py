@@ -1,3 +1,10 @@
-""" lab 5 tasks"""
+class Point():
+  x = 0
+  y = 0
 
-print("nancy")
+  distance = 0
+
+  def distance_between_points(x,y):
+
+    distance = y - x 
+
